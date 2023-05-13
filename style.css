@@ -1,0 +1,68 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 50px 50px 0 50px;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+}
+
+
+/*id selector h1*/
+#main{
+    color:crimson;
+    text-align: center;
+    font-weight: normal;
+}
+
+#summary-text{
+    text-align: center;
+}
+
+/*class selector*/
+.red-text{
+    color: crimson;
+    text-align: center;
+    font-weight: normal;
+}
+
+/*footer id selector*/
+#footer{
+    text-align: center;
+}
+
+/*id selector Nate*/
+#Nate{
+    text-align: center;
+    font-weight: normal;
+    font-family: Pacifico;
+    margin: 5px;
+}
+
+
+
+/* class selector*/
+.dates{
+    font-weight: normal;
+    color: rgb(193, 131, 23);
+}
+
+/* id selector other*/
+#Other-position{
+    text-align: left;
+}
+
+.center{
+    text-align: center;
+}
+
+/*id selector profile*/
+img{
+    height: 200px;
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 10px brown;
+    border-style: double;
+    padding: 20px;
+}
+
